@@ -17,9 +17,9 @@
   <img align="center" src="https://github-readme-stats-wendelltmo.vercel.app/api/pin/?username=WendellTMO&repo=netlify-cayley-game&theme=shadow_blue" />
 </a>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-wendelltmo.vercel.app/api/pin/?username=WendellTMO&repo=cv&theme=shadow_blue" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-wendelltmo.vercel.app/" />
  <img style="max-width: 100%;" src="https://github-readme-stats-wendelltmo.vercel.app/api/pin/?username=WendellTMO&repo=cv&theme=shadow_blue" />
- <img style="max-width: 100%;" src="https://github-readme-stats-wendelltmo.vercel.app/api/pin/?username=WendellTMO&repo=cv&theme=shadow_blue" />
+ <img style="max-width: 100%;" src="https://github-readme-stats-wendelltmo.vercel.app/api/pin/?username=WendellTMO&repo=netlify-cayley-game&theme=shadow_blue" />
 </div>
 
 
