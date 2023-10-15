@@ -3,6 +3,11 @@
 
 <!-- Body -->
 ### Undergraduate Computer Science Student 💻
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
+ <img class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" />
+</div>
 <div>
   <table width="100%" cellspacing="0" cellpadding="0">
     <td width = "100%">
