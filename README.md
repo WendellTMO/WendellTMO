@@ -3,27 +3,13 @@
 
 <!-- Body -->
 ### Undergraduate Computer Science Student 💻
+<div class='container'>
+ <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
+ &nbsp;
+ &nbsp;
+ <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" /></div>
+</div>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
- <img class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" />
-</div>
-<div>
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <td width = "100%">
-      <br>
-        <p href="https://github.com/WendellTMO/github-readme-stats">
-          <img height=200 align="center" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
-        </p>
-    </td>
-    <td width = "100%">
-      <br>
-        <p href="https://github.com/anuraghazra/convoychat">
-          <img height=200 align="center" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" />
-        </p>
-    </td>
-  </table>
-</div>
 <!--
 **WendellTMO/WendellTMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
