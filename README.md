@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <details>
-  <summary><b> 👉 Wendell's Github Stats 👈 <\b><\summary>
-  ![WendellTMO's GitHub stats](https://github-readme-stats-wendells-projects.vercel.app/api?username=WendellTMO&show_icons=true&theme=radical)
+  <summary><b>👉 Wendell's Github Stats 👈</b></summary>
+    ![WendellTMO's GitHub stats](https://github-readme-stats-wendells-projects.vercel.app/api?username=WendellTMO&show_icons=true&theme=radical)
 </details>
 
 ![Top Langs](https://github-readme-stats-wendells-projects.vercel.app/api/top-langs/?username=WendellTMO&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical)
