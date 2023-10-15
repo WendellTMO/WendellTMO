@@ -2,7 +2,7 @@
 
 ![WendellTMO's GitHub stats](https://github-readme-stats-wendells-projects.vercel.app/api?username=WendellTMO&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats-wendells-projects.vercel.app/api/top-langs/?username=WendellTMO&layout=compact)
+![Top Langs](https://github-readme-stats-wendells-projects.vercel.app/api/top-langs/?username=WendellTMO&size_weight=0.5&count_weight=0.5&layout=compact&theme=highcontrast)
 <!--
 **WendellTMO/WendellTMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
