@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![WendellTMO's GitHub stats](https://github-readme-stats-qlgchg43i-wendells-projects.vercel.app/api?username=WendellTMO&show_icons=true&theme=highcontrast)
+![WendellTMO's GitHub stats](https://github-readme-stats-wendells-projects.vercel.app/api?username=WendellTMO&show_icons=true&theme=highcontrast)
 <!--
 **WendellTMO/WendellTMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
