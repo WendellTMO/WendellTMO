@@ -10,7 +10,7 @@
  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" /></div>
 </div>
 
-[![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=WendellTMO&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO)
+<!-- [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=WendellTMO&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO) --> 
 
 <!--
 **WendellTMO/WendellTMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
