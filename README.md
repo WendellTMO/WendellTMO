@@ -1,3 +1,7 @@
+<!-- Header -->
+<img src="https://i.pinimg.com/originals/ef/08/d1/ef08d117f320d1e142f79c4413e0a2bf.gif"></img>
+
+<!-- Body -->
 ### Hi there! Undergraduate Computer Science Student 🤓
   
   <a href="https://github.com/WendellTMO/github-readme-stats">
