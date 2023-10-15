@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://i.pinimg.com/originals/ef/08/d1/ef08d117f320d1e142f79c4413e0a2bf.gif"></img>
+<img src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif"></img>
 
 <!-- Body -->
 ### Hi there! Undergraduate Computer Science Student 🤓
