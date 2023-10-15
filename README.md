@@ -4,10 +4,10 @@
 <summary><b>👉 Github Stats ❗</b></summary>
   
   <a href="https://github.com/WendellTMO/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-wendells-projects.vercel.app/api?username=WendellTMO&theme=radical&count-private=true" />
+    <img height=200 align="center" src="https://github-readme-stats-h3k8a7m1v-wendells-projects.vercel.app/api?username=WendellTMO&theme=radical&count-private=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-wendells-projects.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&card_width=320&count-private=true" />
+    <img height=200 align="center" src="https://github-readme-stats-h3k8a7m1v-wendells-projects.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&card_width=320&count-private=true" />
   </a>
 
 </details>
