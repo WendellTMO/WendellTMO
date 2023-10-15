@@ -1,7 +1,7 @@
 ### Hi there! Undergraduate Computer Science Student 🤓
 
 <details>
-<summary><b>👉 Github Stats ❗</b></summary>
+<summary><b>👉 Github-Stats ❗</b></summary>
   
   <a href="https://github.com/WendellTMO/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-git-master-wendells-projects.vercel.app/api?username=WendellTMO&theme=radical&count-private=true" />
