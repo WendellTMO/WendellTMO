@@ -1,5 +1,4 @@
-### Hi there 👋
-### Undergraduate Computer Science Student 🤓
+### Hi there! Undergraduate Computer Science Student 🤓
 
 <details>
 <summary><b>👉 Github Stats ❗</b></summary>
