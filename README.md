@@ -16,6 +16,13 @@
 ### Spotify Playing 🎵
 [![Spotify](https://novatorem-cc0qllz1j-wendells-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zrdod2nxtvoqokkseq6dakq)
 
+### Contribution Snake 🐍
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **WendellTMO/WendellTMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
