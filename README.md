@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=4000&pause=2000&background=01010100&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there!+%F0%9F%91%8B;I'm+Wendell+Tom%C3%A9+Marinho+Oliveira;Welcome+to+my+profile+%3AP)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=4000&pause=2000&background=01010100&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there!+%F0%9F%91%8B;I'm+Wendell+Tom%C3%A9+Marinho+Oliveira;Welcome+to+my+profile+%3AP" />
 </h1>
 <img align="center" src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif"></img>
 
