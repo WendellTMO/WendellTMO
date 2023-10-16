@@ -5,11 +5,8 @@
 <img align="center" src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif"></img>
 
 <!-- Body -->
-<div align="center">
- ### Undergraduated Computer Science Student 💻
- - 🌱 I’m currently learning **Java**, **NodeJS**, **Neo4J**...
+<h3 align="center"> Undergraduated Computer Science Student 💻 </h3>
 
-</div>
 <br>
 <div class='container'>
  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
