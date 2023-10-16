@@ -6,6 +6,9 @@
 
 <!-- Body -->
 <h3 align="center"> Undergraduated Computer Science Student 💻 </h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,nodejs,neo4j" /><br>
+</div>
 
 <div align="center"> 
   <a href="mailto:wendelltmo2306@outlook.com">
