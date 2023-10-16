@@ -12,11 +12,13 @@
  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" /></div>
 </div>
 <div align="center">
- ### Wakatime Stats ⏰
- [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=wendelltmo&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO)
+  ### Wakatime Stats ⏰
  
- ### Spotify Playing 🎵
- [![Spotify](https://novatorem-cc0qllz1j-wendells-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zrdod2nxtvoqokkseq6dakq)
+  [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=wendelltmo&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO)
+ 
+  ### Spotify Playing 🎵
+ 
+  [![Spotify](https://novatorem-cc0qllz1j-wendells-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zrdod2nxtvoqokkseq6dakq)
  
  ### Contribution Snake 🐍
  <picture>
