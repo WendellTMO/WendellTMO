@@ -12,7 +12,9 @@
 
 ### Spotify Playing 🎵
 [![Spotify](https://novatorem-cc0qllz1j-wendells-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zrdod2nxtvoqokkseq6dakq)
-<!-- [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=WendellTMO&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO) --> 
+
+### Wakatime Stats ⏰
+[![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=WendellTMO&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO)
 
 <!--
 **WendellTMO/WendellTMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
