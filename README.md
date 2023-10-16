@@ -3,7 +3,7 @@
 
 <!-- Body -->
 <div align="center">
- ### Undergraduate Computer Science Student 💻
+ ###Undergraduate Computer Science Student 💻
 </div>
 
 <div class='container'>
