@@ -5,7 +5,7 @@
 <div align="center">
  ### Undergraduated Computer Science Student 💻
 </div>
-
+<br>
 <div class='container'>
  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
  &nbsp;
