@@ -16,19 +16,19 @@
 ### Spotify Playing 🎵
 [![Spotify](https://novatorem-cc0qllz1j-wendells-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zrdod2nxtvoqokkseq6dakq)
 
-### Contribution Snake 🐍
+### Contribution Snakee 🐍
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/wendelltmo/wendelltmo/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/WendellTMO/WendellTMO/f8b232e92771955134ad021e5628bcbe45f7e652/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/wendelltmo/wendelltmo/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/WendellTMO/WendellTMO/blob/output/github-contribution-grid-snake.gif?raw=true"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/wendelltmo/wendelltmo/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/WendellTMO/WendellTMO/f8b232e92771955134ad021e5628bcbe45f7e652/github-contribution-grid-snake.svg"
   />
 </picture>
 
