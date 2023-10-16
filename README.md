@@ -5,13 +5,16 @@
 <div align="center">
  ### Undergraduate Computer Science Student 💻
 </div>
+
 <div class='container'>
  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
  &nbsp;
  &nbsp;
  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api/top-langs?username=WendellTMO&size_weight=0.5&count_weight=0.5&theme=shadow_blue&layout=compact&langs_count=8&card_width=320" /></div>
 </div>
+
 <div align="center">
+
   ### Wakatime Stats ⏰
  
   [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=wendelltmo&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO)
