@@ -3,8 +3,8 @@
 
 <!-- Body -->
 <div align="center">
-    ### Undergraduate Computer Science Student 💻
-    </div>
+### Undergraduate Computer Science Student 💻
+</div>
 
 <div class='container'>
  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-wendelltmo.vercel.app/api?username=WendellTMO&theme=shadow_blue" />
