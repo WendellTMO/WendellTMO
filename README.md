@@ -31,7 +31,7 @@
 <div align="center">
 
   ### Wakatime Stats ⏰
-  [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=wendelltmo&theme=shadow_blue&layout=compact)](https://github.com/WendellTMO)
+  [![Wendells's wakatime stats](https://github-readme-stats-wendelltmo.vercel.app/api/wakatime?username=wendelltmo&theme=shadow_blue&layout=compact)
  
   ### Spotify Playing 🎵 
   [![Spotify](https://novatorem-cc0qllz1j-wendells-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zrdod2nxtvoqokkseq6dakq)
