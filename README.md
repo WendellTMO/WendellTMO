@@ -7,7 +7,7 @@
 <!-- Body -->
 <h3 align="center"> Undergraduated Computer Science Student 💻 </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,react,nodejs,clojure,haskell" /><br>
 </div>
 
 <div align="center"> 
